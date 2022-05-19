@@ -1,0 +1,16 @@
+﻿Der Buildvorgang wurde am 18.12.2015 10:30:01 gestartet.
+     1>Projekt "E:\Eigene Dateien\Visual Studio 2012\Projects\sample1\sample1\sample1.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /IC:\opencv\build\include\opencv /IC:\opencv\build\include\opencv2 /I"C:\Program Files\MATLAB\R2014a\extern\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt tutorial3_objectTracking.cpp
+         tutorial3_objectTracking.cpp
+     1>c:\opencv\build\include\opencv2\flann\logger.h(66): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218): Siehe Deklaration von 'fopen'
+     1>tutorial3_objectTracking.cpp(40): warning C4244: 'Initialisierung': Konvertierung von 'double' in 'const int', möglicher Datenverlust
+     1>tutorial3_objectTracking.cpp(157): warning C4267: 'Initialisierung': Konvertierung von 'size_t' nach 'int', Datenverlust möglich
+     1>tutorial3_objectTracking.cpp(176): warning C4244: '=': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>tutorial3_objectTracking.cpp(177): warning C4244: '=': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>Die Erstellung des Projekts "E:\Eigene Dateien\Visual Studio 2012\Projects\sample1\sample1\sample1.vcxproj" ist abgeschlossen, Build Ziel(e) -- FEHLER.
+
+Fehler beim Buildvorgang.
+
+Verstrichene Zeit 00:00:00.56

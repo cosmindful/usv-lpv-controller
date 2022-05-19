@@ -1,0 +1,38 @@
+function fL = yalmipSDPT3_2_VSDP(solverinput)
+
+%%
+ vsdpinit('sdpt3')
+ vsdpopts.MAX_ITER              = 10;
+ vsdpopts.USE_STARTING_POINT    = 0;
+ vsdpopts.ALPHA                 = 0.5;
+ vsdpinit(vsdpopts, 1);
+ 
+ 
+%     SDPoptions = sdpsettings('savesolveroutput', 1, ...
+%                              'savesolverinput' , 1, ...
+%                              'verbose'         , 1, ...
+%                              'solver'          ,'sdpt3');
+%                          
+%  SDPoptions.pureexport      = 1;
+% 
+%  solution  = solvesdp(Constraints, Optimization, SDPoptions)
+ 
+ sdpt3blk = solverinput.blk;
+ sdpt3A   = solverinput.A;
+ sdpt3C   = solverinput.C;
+ sdpt3b   = solverinput.b;
+ sdpt3X0  = solverinput.X0;
+ sdpt3y0  = solverinput.y0;
+ sdpt3Z0  = solverinput.Z0;
+ 
+[vsdpK, vsdpA, vsdpc, vsdpX0, vsdpZ0] = sdpt2vsdp(sdpt3blk, sdpt3A, sdpt3C, sdpt3X0, sdpt3Z0);
+ vsdpb  = sdpt3b;
+ vsdpy0 = sdpt3y0;
+
+[obj, xApprx, yApprx, zApprx, info] = mysdps(vsdpA, vsdpb, vsdpc, vsdpK, vsdpX0, vsdpy0, vsdpZ0);
+    
+    [infeas x y] = vsdpinfeas(vsdpA, vsdpb, vsdpc, vsdpK, 'p', xApprx, yApprx, zApprx)
+
+%   [fL y dl info] = vsdplow(vsdpA, vsdpb, vsdpc, vsdpK, xApprx, yApprx, zApprx);
+%   [fU x dU info] =  vsdpup(vsdpA, vsdpb, vsdpc, vsdpK, xApprx, yApprx, zApprx);
+

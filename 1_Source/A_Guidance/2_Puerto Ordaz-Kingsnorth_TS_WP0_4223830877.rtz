@@ -1,0 +1,1217 @@
+<!DOCTYPE voyageDocument>
+<route>
+   <routeInfo from="Puerto Ordaz" original="0" to="Kingsnorth" id="4223830877" name="2_Puerto Ordaz-Kingsnorth_TS_WP0" lastChanged="Di Mai 30 15:12:42 2017"/>
+   <waypoints>
+      <waypoint radius="300" id="1" name="">
+         <position lat="8.3308" lon="-62.7083"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="2" name="">
+         <position lat="8.341699999999999" lon="-62.71"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="3" name="">
+         <position lat="8.3467" lon="-62.7167"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="4" name="">
+         <position lat="8.351699999999999" lon="-62.7167"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="5" name="">
+         <position lat="8.359999999999999" lon="-62.71"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="6" name="">
+         <position lat="8.365399999999999" lon="-62.7021"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="7" name="">
+         <position lat="8.386799999999999" lon="-62.6528"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="8" name="">
+         <position lat="8.3933" lon="-62.6483"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="9" name="">
+         <position lat="8.4033" lon="-62.6417"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="10" name="">
+         <position lat="8.4183" lon="-62.6183"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="11" name="">
+         <position lat="8.431699999999999" lon="-62.6167"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="12" name="">
+         <position lat="8.443300000000001" lon="-62.605"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="13" name="">
+         <position lat="8.4583" lon="-62.59"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="14" name="">
+         <position lat="8.476699999999999" lon="-62.57"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="15" name="">
+         <position lat="8.488300000000001" lon="-62.5633"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="16" name="">
+         <position lat="8.4917" lon="-62.56"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="17" name="">
+         <position lat="8.503" lon="-62.553"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="18" name="">
+         <position lat="8.5144" lon="-62.5353"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="19" name="">
+         <position lat="8.5176" lon="-62.529"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="20" name="">
+         <position lat="8.5167" lon="-62.5217"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="21" name="">
+         <position lat="8.52" lon="-62.49"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="22" name="">
+         <position lat="8.513299999999999" lon="-62.4617"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="23" name="">
+         <position lat="8.51" lon="-62.445"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="24" name="">
+         <position lat="8.5183" lon="-62.425"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="25" name="">
+         <position lat="8.521699999999999" lon="-62.4033"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="26" name="">
+         <position lat="8.558299999999999" lon="-62.3367"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="27" name="">
+         <position lat="8.566700000000001" lon="-62.2983"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="28" name="">
+         <position lat="8.574999999999999" lon="-62.2717"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="29" name="">
+         <position lat="8.601699999999999" lon="-62.2383"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="30" name="">
+         <position lat="8.6356" lon="-62.236"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="31" name="">
+         <position lat="8.656700000000001" lon="-62.2217"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="32" name="">
+         <position lat="8.6624" lon="-62.2109"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="33" name="">
+         <position lat="8.681699999999999" lon="-62.1983"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="34" name="">
+         <position lat="8.695" lon="-62.1867"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="35" name="">
+         <position lat="8.699999999999999" lon="-62.1767"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="36" name="">
+         <position lat="8.705" lon="-62.16"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="37" name="">
+         <position lat="8.7067" lon="-62.1467"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="38" name="">
+         <position lat="8.716699999999999" lon="-62.125"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="39" name="">
+         <position lat="8.715" lon="-62.1167"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="40" name="">
+         <position lat="8.7083" lon="-62.0967"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="41" name="">
+         <position lat="8.6867" lon="-62.0717"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="42" name="">
+         <position lat="8.6783" lon="-62.0617"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="43" name="">
+         <position lat="8.6683" lon="-62.0383"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="44" name="">
+         <position lat="8.664999999999999" lon="-62.0233"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="45" name="">
+         <position lat="8.666700000000001" lon="-62.01"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="46" name="">
+         <position lat="8.67" lon="-61.9967"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="47" name="">
+         <position lat="8.6692" lon="-61.9877"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="48" name="">
+         <position lat="8.656700000000001" lon="-61.9733"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="49" name="">
+         <position lat="8.636699999999999" lon="-61.955"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="50" name="">
+         <position lat="8.635" lon="-61.945"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="51" name="">
+         <position lat="8.635" lon="-61.92"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="52" name="">
+         <position lat="8.6317" lon="-61.8967"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="53" name="">
+         <position lat="8.6267" lon="-61.8917"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="54" name="">
+         <position lat="8.621700000000001" lon="-61.8833"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="55" name="">
+         <position lat="8.6167" lon="-61.8683"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="56" name="">
+         <position lat="8.6067" lon="-61.8517"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="57" name="">
+         <position lat="8.609999999999999" lon="-61.8167"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="58" name="">
+         <position lat="8.615" lon="-61.8083"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="59" name="">
+         <position lat="8.6183" lon="-61.7967"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="60" name="">
+         <position lat="8.6167" lon="-61.7883"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="61" name="">
+         <position lat="8.615" lon="-61.78"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="62" name="">
+         <position lat="8.609999999999999" lon="-61.77"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="63" name="">
+         <position lat="8.6067" lon="-61.7033"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="64" name="">
+         <position lat="8.594300000000001" lon="-61.6843"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="65" name="">
+         <position lat="8.585000000000001" lon="-61.6667"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="66" name="">
+         <position lat="8.5833" lon="-61.6583"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="67" name="">
+         <position lat="8.578300000000001" lon="-61.6467"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="68" name="">
+         <position lat="8.568300000000001" lon="-61.625"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="69" name="">
+         <position lat="8.566700000000001" lon="-61.6133"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="70" name="">
+         <position lat="8.565" lon="-61.595"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="71" name="">
+         <position lat="8.558299999999999" lon="-61.5867"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="72" name="">
+         <position lat="8.5533" lon="-61.58"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="73" name="">
+         <position lat="8.545" lon="-61.5583"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="74" name="">
+         <position lat="8.5383" lon="-61.5517"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="75" name="">
+         <position lat="8.527100000000001" lon="-61.5361"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="76" name="">
+         <position lat="8.526199999999999" lon="-61.5311"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="77" name="">
+         <position lat="8.526199999999999" lon="-61.5175"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="78" name="">
+         <position lat="8.529999999999999" lon="-61.5117"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="79" name="">
+         <position lat="8.531700000000001" lon="-61.5067"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="80" name="">
+         <position lat="8.5367" lon="-61.5033"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="81" name="">
+         <position lat="8.5367" lon="-61.4983"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="82" name="">
+         <position lat="8.533300000000001" lon="-61.4933"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="83" name="">
+         <position lat="8.5267" lon="-61.4933"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="84" name="">
+         <position lat="8.5167" lon="-61.4933"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="85" name="">
+         <position lat="8.51" lon="-61.49"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="86" name="">
+         <position lat="8.5067" lon="-61.4883"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="87" name="">
+         <position lat="8.503299999999999" lon="-61.4783"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="88" name="">
+         <position lat="8.503299999999999" lon="-61.4683"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="89" name="">
+         <position lat="8.4917" lon="-61.4383"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="90" name="">
+         <position lat="8.488300000000001" lon="-61.4333"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="91" name="">
+         <position lat="8.48" lon="-61.4283"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="92" name="">
+         <position lat="8.476699999999999" lon="-61.415"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="93" name="">
+         <position lat="8.476699999999999" lon="-61.4017"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="94" name="">
+         <position lat="8.48" lon="-61.385"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="95" name="">
+         <position lat="8.488300000000001" lon="-61.37"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="96" name="">
+         <position lat="8.49" lon="-61.3633"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="97" name="">
+         <position lat="8.486700000000001" lon="-61.355"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="98" name="">
+         <position lat="8.466699999999999" lon="-61.3417"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="99" name="">
+         <position lat="8.465" lon="-61.3367"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="100" name="">
+         <position lat="8.465" lon="-61.33"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="101" name="">
+         <position lat="8.468299999999999" lon="-61.325"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="102" name="">
+         <position lat="8.486700000000001" lon="-61.3133"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="103" name="">
+         <position lat="8.49" lon="-61.3083"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="104" name="">
+         <position lat="8.488300000000001" lon="-61.3017"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="105" name="">
+         <position lat="8.4833" lon="-61.3"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="106" name="">
+         <position lat="8.476699999999999" lon="-61.2967"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="107" name="">
+         <position lat="8.475" lon="-61.2883"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="108" name="">
+         <position lat="8.475" lon="-61.2783"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="109" name="">
+         <position lat="8.4717" lon="-61.2667"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="110" name="">
+         <position lat="8.4633" lon="-61.2483"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="111" name="">
+         <position lat="8.464700000000001" lon="-61.2419"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="112" name="">
+         <position lat="8.476699999999999" lon="-61.2233"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="113" name="">
+         <position lat="8.478300000000001" lon="-61.215"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="114" name="">
+         <position lat="8.476699999999999" lon="-61.1983"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="115" name="">
+         <position lat="8.48" lon="-61.19"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="116" name="">
+         <position lat="8.484999999999999" lon="-61.1833"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="117" name="">
+         <position lat="8.5017" lon="-61.1767"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="118" name="">
+         <position lat="8.505000000000001" lon="-61.1683"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="119" name="">
+         <position lat="8.505000000000001" lon="-61.1583"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="120" name="">
+         <position lat="8.494999999999999" lon="-61.14"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="121" name="">
+         <position lat="8.4917" lon="-61.1217"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="122" name="">
+         <position lat="8.494999999999999" lon="-61.1"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="123" name="">
+         <position lat="8.4983" lon="-61.08"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="124" name="">
+         <position lat="8.505000000000001" lon="-61.06"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="125" name="">
+         <position lat="8.515000000000001" lon="-61.0417"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="126" name="">
+         <position lat="8.52" lon="-61.0283"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="127" name="">
+         <position lat="8.533300000000001" lon="-61.0217"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="128" name="">
+         <position lat="8.548299999999999" lon="-61.01"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="129" name="">
+         <position lat="8.555" lon="-60.99"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="130" name="">
+         <position lat="8.5867" lon="-60.99"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="131" name="">
+         <position lat="8.6067" lon="-60.9733"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="132" name="">
+         <position lat="8.6183" lon="-60.9583"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="133" name="">
+         <position lat="8.6267" lon="-60.9417"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="134" name="">
+         <position lat="8.6233" lon="-60.9217"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="135" name="">
+         <position lat="8.619999999999999" lon="-60.91"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="136" name="">
+         <position lat="8.609999999999999" lon="-60.9"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="137" name="">
+         <position lat="8.6067" lon="-60.8967"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="138" name="">
+         <position lat="8.601699999999999" lon="-60.8883"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="139" name="">
+         <position lat="8.6" lon="-60.8733"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="140" name="">
+         <position lat="8.5967" lon="-60.8533"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="141" name="">
+         <position lat="8.5967" lon="-60.8433"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="142" name="">
+         <position lat="8.601699999999999" lon="-60.825"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="143" name="">
+         <position lat="8.6" lon="-60.8067"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="144" name="">
+         <position lat="8.5983" lon="-60.7967"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="145" name="">
+         <position lat="8.5967" lon="-60.7833"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="146" name="">
+         <position lat="8.5967" lon="-60.7733"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="147" name="">
+         <position lat="8.601699999999999" lon="-60.7567"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="148" name="">
+         <position lat="8.603300000000001" lon="-60.7483"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="149" name="">
+         <position lat="8.615" lon="-60.7167"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="150" name="">
+         <position lat="8.614699999999999" lon="-60.6892"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="151" name="">
+         <position lat="8.6203" lon="-60.6695"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="152" name="">
+         <position lat="8.632199999999999" lon="-60.6453"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="153" name="">
+         <position lat="8.6325" lon="-60.6375"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="154" name="">
+         <position lat="8.613300000000001" lon="-60.6135"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="155" name="">
+         <position lat="8.590500000000001" lon="-60.6003"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="156" name="">
+         <position lat="8.5802" lon="-60.5758"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="157" name="">
+         <position lat="8.5815" lon="-60.5459"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="158" name="">
+         <position lat="8.6" lon="-60.515"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="159" name="">
+         <position lat="8.696300000000001" lon="-60.4523"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="160" name="">
+         <position lat="8.7731" lon="-60.3879"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="161" name="">
+         <position lat="8.8415" lon="-60.3138"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="162" name="">
+         <position lat="8.9299" lon="-60.1885"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="163" name="dfdfdf">
+         <position lat="9.111700000000001" lon="-59.8367"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="164" name="">
+         <position lat="11.32" lon="-60.2883"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="165" name="">
+         <position lat="11.3933" lon="-60.3233"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="166" name="">
+         <position lat="11.5" lon="-60.5"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="14" id="167" name="">
+         <position lat="37.36746228222537" lon="-26.28303889400625"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="14" id="168" name="">
+         <position lat="37.6028333590846" lon="-25.91602119918293"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="169" name="">
+         <position lat="37.659768" lon="-25.811978"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="170" name="">
+         <position lat="37.6883" lon="-25.7433"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="171" name="">
+         <position lat="37.68885477075644" lon="-25.72078525645023"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="172" name="">
+         <position lat="37.7243" lon="-25.6405"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="173" name="">
+         <position lat="37.7328" lon="-25.6442"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="174" name="">
+         <position lat="37.7378" lon="-25.652"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="175" name="">
+         <position lat="37.7367" lon="-25.6633"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="176" name="">
+         <position lat="37.7367" lon="-25.6633"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="177" name="">
+         <position lat="37.7378" lon="-25.652"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="178" name="">
+         <position lat="37.7328" lon="-25.6442"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="179" name="">
+         <position lat="37.7243" lon="-25.6405"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="180" name="">
+         <position lat="37.6906" lon="-25.6054"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="181" name="">
+         <position lat="37.6483" lon="-25.5133"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="182" name="">
+         <position lat="37.6483" lon="-25.3333"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="183" name="">
+         <position lat="37.6667" lon="-25.1667"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="184" name="">
+         <position lat="37.695" lon="-25.0933"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="185" name="">
+         <position lat="48.525" lon="-5.875"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="186" name="">
+         <position lat="48.78" lon="-5.6167"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="187" name="">
+         <position lat="48.9617" lon="-5.1467"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="188" name="">
+         <position lat="49.8267" lon="-2.8533"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="189" name="">
+         <position lat="49.9121" lon="-2.3761"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="190" name="">
+         <position lat="50.2503" lon="-0.47711"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="191" name="">
+         <position lat="50.5117" lon="1"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="192" name="">
+         <position lat="50.7083" lon="1.35"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="193" name="">
+         <position lat="50.9117" lon="1.4533"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="194" name="">
+         <position lat="50.9667" lon="1.5183"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="195" name="">
+         <position lat="51.1433" lon="1.7983"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="196" name="">
+         <position lat="51.2333" lon="2.0783"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="197" name="">
+         <position lat="51.3133" lon="2.1333"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="198" name="">
+         <position lat="51.415" lon="2.0133"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="199" name="">
+         <position lat="51.4517" lon="1.9683"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="200" name="">
+         <position lat="51.5317" lon="1.865"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="201" name="">
+         <position lat="51.645" lon="1.8217"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="202" name="">
+         <position lat="51.7083" lon="1.81"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="203" name="">
+         <position lat="51.8333" lon="1.7883"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="204" name="">
+         <position lat="51.8467" lon="1.7767"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="205" name="">
+         <position lat="51.8617" lon="1.7017"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="206" name="">
+         <position lat="51.8633" lon="1.675"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="207" name="">
+         <position lat="51.8516" lon="1.6356"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="208" name="">
+         <position lat="51.8512" lon="1.5934"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="209" name="">
+         <position lat="51.8462" lon="1.583"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="210" name="">
+         <position lat="51.7685" lon="1.5286"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="211" name="">
+         <position lat="51.6957" lon="1.459"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="212" name="">
+         <position lat="51.6511" lon="1.396"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="213" name="">
+         <position lat="51.6184" lon="1.3324"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="214" name="">
+         <position lat="51.5689" lon="1.2242"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="215" name="">
+         <position lat="51.5668" lon="1.2051"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="216" name="">
+         <position lat="51.5624" lon="1.1852"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="217" name="">
+         <position lat="51.4996" lon="1.0311"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="218" name="">
+         <position lat="51.4806" lon="0.94997"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="219" name="">
+         <position lat="51.4807" lon="0.91988"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="220" name="">
+         <position lat="51.4798" lon="0.87927"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="221" name="">
+         <position lat="51.4741" lon="0.84232"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="222" name="">
+         <position lat="51.4696" lon="0.82212"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="223" name="">
+         <position lat="51.4659" lon="0.80255"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="224" name="">
+         <position lat="51.4617" lon="0.77787"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="225" name="">
+         <position lat="51.4486" lon="0.7389"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="226" name="">
+         <position lat="51.4408" lon="0.735"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="227" name="">
+         <position lat="51.4345" lon="0.72622"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="228" name="">
+         <position lat="51.4312" lon="0.71683"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="229" name="">
+         <position lat="51.43" lon="0.70917"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="230" name="">
+         <position lat="51.4289" lon="0.69375"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="231" name="">
+         <position lat="51.4292" lon="0.6850000000000001"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="232" name="">
+         <position lat="51.43" lon="0.67583"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="233" name="">
+         <position lat="51.4305" lon="0.67162"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="234" name="">
+         <position lat="51.4293" lon="0.6664"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="235" name="">
+         <position lat="51.4244" lon="0.65922"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="236" name="">
+         <position lat="51.415" lon="0.6475"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="237" name="">
+         <position lat="51.4123" lon="0.64325"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="238" name="">
+         <position lat="51.4092" lon="0.63198"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="239" name="">
+         <position lat="51.4096" lon="0.61527"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+      <waypoint radius="300" id="240" name="">
+         <position lat="51.41" lon="0.60333"/>
+         <leg geometryType="" portsideXTD="0" starboardXTD="0"/>
+      </waypoint>
+   </waypoints>
+   <schedules>
+      <schedule>
+         <calculated>
+            <scheduleElement waypointId="1" etaExact="1496150554000" eta="30-05-2017 15:22:34" speed="10" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="2" etaExact="1496150738000" eta="30-05-2017 15:25:38" speed="12.9558" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="3" etaExact="1496150883000" eta="30-05-2017 15:28:03" speed="12.3774" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="4" etaExact="1496150975000" eta="30-05-2017 15:29:35" speed="11.747" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="5" etaExact="1496151171000" eta="30-05-2017 15:32:51" speed="11.714" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="6" etaExact="1496151344000" eta="30-05-2017 15:35:44" speed="11.8692" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="7" etaExact="1496152298000" eta="30-05-2017 15:51:38" speed="12.0675" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="8" etaExact="1496152447000" eta="30-05-2017 15:54:07" speed="11.4287" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="9" etaExact="1496152656000" eta="30-05-2017 15:57:36" speed="12.3511" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="10" etaExact="1496153144000" eta="30-05-2017 16:05:44" speed="12.2173" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="11" etaExact="1496153386000" eta="30-05-2017 16:09:46" speed="12.0516" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="12" etaExact="1496153691000" eta="30-05-2017 16:14:51" speed="11.6124" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="13" etaExact="1496154069000" eta="30-05-2017 16:21:09" speed="12.0643" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="14" etaExact="1496154550000" eta="30-05-2017 16:29:10" speed="12.1403" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="15" etaExact="1496154791000" eta="30-05-2017 16:33:11" speed="11.9816" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="16" etaExact="1496154876000" eta="30-05-2017 16:34:36" speed="11.9847" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="17" etaExact="1496155110000" eta="30-05-2017 16:38:30" speed="12.241" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="18" etaExact="1496155492000" eta="30-05-2017 16:44:52" speed="11.8201" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="19" etaExact="1496155610000" eta="30-05-2017 16:46:50" speed="12.83" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="20" etaExact="1496155748000" eta="30-05-2017 16:49:08" speed="11.3952" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="21" etaExact="1496156314000" eta="30-05-2017 16:58:34" speed="12.0383" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="22" etaExact="1496156838000" eta="30-05-2017 17:07:18" speed="11.871" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="23" etaExact="1496157132000" eta="30-05-2017 17:12:12" speed="12.3824" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="24" etaExact="1496157524000" eta="30-05-2017 17:18:44" speed="11.8276" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="25" etaExact="1496157913000" eta="30-05-2017 17:25:13" speed="12.0731" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="26" etaExact="1496159272000" eta="30-05-2017 17:47:52" speed="11.9839" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="27" etaExact="1496159975000" eta="30-05-2017 17:59:35" speed="11.9572" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="28" etaExact="1496160469000" eta="30-05-2017 18:07:49" speed="12.068" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="29" etaExact="1496161224000" eta="30-05-2017 18:20:24" speed="12.1581" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="30" etaExact="1496161836000" eta="30-05-2017 18:30:36" speed="11.9997" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="31" etaExact="1496162293000" eta="30-05-2017 18:38:13" speed="12.0126" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="32" etaExact="1496162510000" eta="30-05-2017 18:41:50" speed="12.0555" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="33" etaExact="1496162927000" eta="30-05-2017 18:48:47" speed="11.9064" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="34" etaExact="1496163240000" eta="30-05-2017 18:54:00" speed="12.1267" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="35" etaExact="1496163442000" eta="30-05-2017 18:57:22" speed="11.8533" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="36" etaExact="1496163753000" eta="30-05-2017 19:02:33" speed="11.9876" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="37" etaExact="1496163990000" eta="30-05-2017 19:06:30" speed="12.0898" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="38" etaExact="1496164411000" eta="30-05-2017 19:13:31" speed="12.1504" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="39" etaExact="1496164569000" eta="30-05-2017 19:16:09" speed="11.4618" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="40" etaExact="1496164941000" eta="30-05-2017 19:22:21" speed="12.1284" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="41" etaExact="1496165538000" eta="30-05-2017 19:32:18" speed="11.8832" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="42" etaExact="1496165766000" eta="30-05-2017 19:36:06" speed="12.2978" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="43" etaExact="1496166221000" eta="30-05-2017 19:43:41" speed="11.9718" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="44" etaExact="1496166492000" eta="30-05-2017 19:48:12" speed="12.1165" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="45" etaExact="1496166735000" eta="30-05-2017 19:52:15" speed="11.7925" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="46" etaExact="1496166977000" eta="30-05-2017 19:56:17" speed="12.1076" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="47" etaExact="1496167133000" eta="30-05-2017 19:58:53" speed="12.3772" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="48" etaExact="1496167481000" eta="30-05-2017 20:04:41" speed="11.7668" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="49" etaExact="1496167957000" eta="30-05-2017 20:12:37" speed="12.2462" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="50" etaExact="1496168145000" eta="30-05-2017 20:15:45" speed="11.5336" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="51" etaExact="1496168591000" eta="30-05-2017 20:23:11" speed="11.9784" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="52" etaExact="1496169003000" eta="30-05-2017 20:30:03" speed="12.2086" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="53" etaExact="1496169135000" eta="30-05-2017 20:32:15" speed="11.5133" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="54" etaExact="1496169309000" eta="30-05-2017 20:35:09" speed="12.042" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="55" etaExact="1496169591000" eta="30-05-2017 20:39:51" speed="11.9959" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="56" etaExact="1496169932000" eta="30-05-2017 20:45:32" speed="12.1823" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="57" etaExact="1496170561000" eta="30-05-2017 20:56:01" speed="11.9456" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="58" etaExact="1496170737000" eta="30-05-2017 20:58:57" speed="11.9054" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="59" etaExact="1496170950000" eta="30-05-2017 21:02:30" speed="12.1106" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="60" etaExact="1496171109000" eta="30-05-2017 21:05:09" speed="11.4977" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="61" etaExact="1496171256000" eta="30-05-2017 21:07:36" speed="12.3226" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="62" etaExact="1496171453000" eta="30-05-2017 21:10:53" speed="12.1564" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="63" etaExact="1496172642000" eta="30-05-2017 21:30:42" speed="12.0036" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="64" etaExact="1496173053000" eta="30-05-2017 21:37:33" speed="11.8379" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="65" etaExact="1496173406000" eta="30-05-2017 21:43:26" speed="12.0819" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="66" etaExact="1496173559000" eta="30-05-2017 21:45:59" speed="11.9771" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="67" etaExact="1496173788000" eta="30-05-2017 21:49:48" speed="11.8102" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="68" etaExact="1496174210000" eta="30-05-2017 21:56:50" speed="12.1253" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="69" etaExact="1496174424000" eta="30-05-2017 22:00:24" speed="11.7966" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="70" etaExact="1496174744000" eta="30-05-2017 22:05:44" speed="12.2768" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="71" etaExact="1496174942000" eta="30-05-2017 22:09:02" speed="11.5659" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="72" etaExact="1496175088000" eta="30-05-2017 22:11:28" speed="12.2883" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="73" etaExact="1496175500000" eta="30-05-2017 22:18:20" speed="12.0706" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="74" etaExact="1496175672000" eta="30-05-2017 22:21:12" speed="11.7542" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="75" etaExact="1496176011000" eta="30-05-2017 22:26:51" speed="12.1553" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="76" etaExact="1496176104000" eta="30-05-2017 22:28:24" speed="11.6811" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="77" etaExact="1496176341000" eta="30-05-2017 22:32:21" speed="12.2662" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="78" etaExact="1496176470000" eta="30-05-2017 22:34:30" speed="11.5285" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="79" etaExact="1496176557000" eta="30-05-2017 22:35:57" speed="12.9905" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="80" etaExact="1496176658000" eta="30-05-2017 22:37:38" speed="12.8947" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="81" etaExact="1496176752000" eta="30-05-2017 22:39:12" speed="11.3697" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="82" etaExact="1496176851000" eta="30-05-2017 22:40:51" speed="13.1014" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="83" etaExact="1496176984000" eta="30-05-2017 22:43:04" speed="10.726" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="84" etaExact="1496177156000" eta="30-05-2017 22:45:56" speed="12.5666" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="85" etaExact="1496177297000" eta="30-05-2017 22:48:17" speed="11.4244" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="86" etaExact="1496177351000" eta="30-05-2017 22:49:11" speed="14.8244" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="87" etaExact="1496177545000" eta="30-05-2017 22:52:25" speed="11.652" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="88" etaExact="1496177723000" eta="30-05-2017 22:55:23" speed="12.0095" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="89" etaExact="1496178299000" eta="30-05-2017 23:04:59" speed="11.9547" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="90" etaExact="1496178403000" eta="30-05-2017 23:06:43" speed="12.4725" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="91" etaExact="1496178571000" eta="30-05-2017 23:09:31" speed="12.4304" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="92" etaExact="1496178824000" eta="30-05-2017 23:13:44" speed="11.5866" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="93" etaExact="1496179062000" eta="30-05-2017 23:17:42" speed="11.9468" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="94" etaExact="1496179364000" eta="30-05-2017 23:22:44" speed="12.0554" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="95" etaExact="1496179671000" eta="30-05-2017 23:27:51" speed="11.9688" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="96" etaExact="1496179788000" eta="30-05-2017 23:29:48" speed="12.6384" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="97" etaExact="1496179947000" eta="30-05-2017 23:32:27" speed="12.0274" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="98" etaExact="1496180376000" eta="30-05-2017 23:39:36" speed="12.061" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="99" etaExact="1496180475000" eta="30-05-2017 23:41:15" speed="11.4176" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="100" etaExact="1496180589000" eta="30-05-2017 23:43:09" speed="12.5649" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="101" etaExact="1496180699000" eta="30-05-2017 23:44:59" speed="11.6825" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="102" etaExact="1496181088000" eta="30-05-2017 23:51:28" speed="12.0777" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="103" etaExact="1496181188000" eta="30-05-2017 23:53:08" speed="12.8503" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="104" etaExact="1496181306000" eta="30-05-2017 23:55:06" speed="12.3559" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="105" etaExact="1496181411000" eta="30-05-2017 23:56:51" speed="10.859" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="106" etaExact="1496181532000" eta="30-05-2017 23:58:52" speed="13.1526" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="107" etaExact="1496181694000" eta="31-05-2017 00:01:34" speed="11.3148" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="108" etaExact="1496181871000" eta="31-05-2017 00:04:31" speed="12.0783" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="109" etaExact="1496182089000" eta="31-05-2017 00:08:09" speed="11.837" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="110" etaExact="1496182441000" eta="31-05-2017 00:14:01" speed="12.3083" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="111" etaExact="1496182561000" eta="31-05-2017 00:16:01" speed="11.6777" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="112" etaExact="1496182956000" eta="31-05-2017 00:22:36" speed="12.0192" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="113" etaExact="1496183109000" eta="31-05-2017 00:25:09" speed="11.8156" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="114" etaExact="1496183405000" eta="31-05-2017 00:30:05" speed="12.1179" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="115" etaExact="1496183568000" eta="31-05-2017 00:32:48" speed="11.7325" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="116" etaExact="1496183713000" eta="31-05-2017 00:35:13" speed="12.3745" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="117" etaExact="1496184029000" eta="31-05-2017 00:40:29" speed="12.2645" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="118" etaExact="1496184195000" eta="31-05-2017 00:43:15" speed="11.6394" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="119" etaExact="1496184371000" eta="31-05-2017 00:46:11" speed="12.1459" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="120" etaExact="1496184747000" eta="31-05-2017 00:52:27" speed="11.8868" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="121" etaExact="1496185079000" eta="31-05-2017 00:57:59" speed="11.9776" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="122" etaExact="1496185475000" eta="31-05-2017 01:04:35" speed="11.8521" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="123" etaExact="1496185834000" eta="31-05-2017 01:10:34" speed="12.074" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="124" etaExact="1496186210000" eta="31-05-2017 01:16:50" speed="12.0054" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="125" etaExact="1496186583000" eta="31-05-2017 01:23:03" speed="11.9821" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="126" etaExact="1496186828000" eta="31-05-2017 01:27:08" speed="12.4959" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="127" etaExact="1496187102000" eta="31-05-2017 01:31:42" speed="11.6871" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="128" etaExact="1496187436000" eta="31-05-2017 01:37:16" speed="12.2594" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="129" etaExact="1496187805000" eta="31-05-2017 01:43:25" speed="12.2317" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="130" etaExact="1496188413000" eta="31-05-2017 01:53:33" speed="11.805" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="131" etaExact="1496188782000" eta="31-05-2017 01:59:42" speed="12.3412" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="132" etaExact="1496189127000" eta="31-05-2017 02:05:27" speed="11.7962" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="133" etaExact="1496189452000" eta="31-05-2017 02:10:52" speed="12.2618" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="134" etaExact="1496189821000" eta="31-05-2017 02:17:01" speed="11.7527" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="135" etaExact="1496190032000" eta="31-05-2017 02:20:32" speed="12.3226" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="136" etaExact="1496190292000" eta="31-05-2017 02:24:52" speed="11.6906" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="137" etaExact="1496190372000" eta="31-05-2017 02:26:12" speed="12.5383" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="138" etaExact="1496190543000" eta="31-05-2017 02:29:03" speed="12.2538" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="139" etaExact="1496190818000" eta="31-05-2017 02:33:38" speed="11.7335" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="140" etaExact="1496191178000" eta="31-05-2017 02:39:38" speed="12.0373" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="141" etaExact="1496191354000" eta="31-05-2017 02:42:34" speed="12.143" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="142" etaExact="1496191692000" eta="31-05-2017 02:48:12" speed="12.0046" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="143" etaExact="1496192024000" eta="31-05-2017 02:53:44" speed="11.8319" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="144" etaExact="1496192205000" eta="31-05-2017 02:56:45" speed="11.9807" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="145" etaExact="1496192444000" eta="31-05-2017 03:00:44" speed="12.0695" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="146" etaExact="1496192620000" eta="31-05-2017 03:03:40" speed="12.143" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="147" etaExact="1496192933000" eta="31-05-2017 03:08:53" speed="11.8487" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="148" etaExact="1496193084000" eta="31-05-2017 03:11:24" speed="12.1073" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="149" etaExact="1496193682000" eta="31-05-2017 03:21:22" speed="12.0589" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="150" etaExact="1496194174000" eta="31-05-2017 03:29:34" speed="11.9457" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="151" etaExact="1496194541000" eta="31-05-2017 03:35:41" speed="11.9361" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="152" etaExact="1496195019000" eta="31-05-2017 03:43:39" speed="12.0834" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="153" etaExact="1496195152000" eta="31-05-2017 03:45:52" speed="12.5421" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="154" etaExact="1496195706000" eta="31-05-2017 03:55:06" speed="11.9089" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="155" etaExact="1496196174000" eta="31-05-2017 04:02:54" speed="12.1334" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="156" etaExact="1496196650000" eta="31-05-2017 04:10:50" speed="11.9535" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="157" etaExact="1496197183000" eta="31-05-2017 04:19:43" speed="12.0011" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="158" etaExact="1496197826000" eta="31-05-2017 04:30:26" speed="12.0066" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="159" etaExact="1496199887000" eta="31-05-2017 05:04:47" speed="12.0108" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="160" etaExact="1496201678000" eta="31-05-2017 05:34:38" speed="12.0382" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="161" etaExact="1496203480000" eta="31-05-2017 06:04:40" speed="12.0191" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="162" etaExact="1496206217000" eta="31-05-2017 06:50:17" speed="12.0131" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="163" etaExact="1496213259000" eta="31-05-2017 08:47:39" speed="12.0362" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="164" etaExact="1496253642000" eta="31-05-2017 20:00:42" speed="12.0566" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="165" etaExact="1496255089000" eta="31-05-2017 20:24:49" speed="12.0896" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="166" etaExact="1496258722000" eta="31-05-2017 21:25:22" speed="12.1022" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="167" etaExact="1496983588000" eta="09-06-2017 06:46:28" speed="11.9551" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="168" etaExact="1496988088000" eta="09-06-2017 08:01:28" speed="17.9859" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="169" etaExact="1496989288000" eta="09-06-2017 08:21:28" speed="18.0399" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="170" etaExact="1496990068000" eta="09-06-2017 08:34:28" speed="17.0122" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="171" etaExact="1496991014000" eta="09-06-2017 08:50:14" speed="4.07285" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="172" etaExact="1496991837000" eta="09-06-2017 09:03:57" speed="19.1034" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="173" etaExact="1496992004000" eta="09-06-2017 09:06:44" speed="11.6352" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="174" etaExact="1496992142000" eta="09-06-2017 09:09:02" speed="12.437" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="175" etaExact="1496992316000" eta="09-06-2017 09:11:56" speed="11.1846" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="176" etaExact="1497014554000" eta="09-06-2017 15:22:34" speed="0" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="177" etaExact="1497014703000" eta="09-06-2017 15:25:03" speed="13.0612" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="178" etaExact="1497014849000" eta="09-06-2017 15:27:29" speed="11.7555" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="179" etaExact="1497015013000" eta="09-06-2017 15:30:13" speed="11.848" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="180" etaExact="1497015800000" eta="09-06-2017 15:43:20" speed="11.9929" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="181" etaExact="1497017317000" eta="09-06-2017 16:08:37" speed="12.0091" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="182" etaExact="1497019896000" eta="09-06-2017 16:51:36" speed="11.9445" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="183" etaExact="1497022298000" eta="09-06-2017 17:31:38" speed="11.9834" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="184" etaExact="1497023463000" eta="09-06-2017 17:51:03" speed="11.9887" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="185" etaExact="1497341603000" eta="13-06-2017 10:13:23" speed="11.9841" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="186" etaExact="1497347135000" eta="13-06-2017 11:45:35" speed="11.9883" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="187" etaExact="1497353615000" eta="13-06-2017 13:33:35" speed="11.961" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="188" etaExact="1497384757000" eta="13-06-2017 22:12:37" speed="11.9731" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="189" etaExact="1497390527000" eta="13-06-2017 23:48:47" speed="11.9575" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="190" etaExact="1497413372000" eta="14-06-2017 06:09:32" speed="11.9649" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="191" etaExact="1497431024000" eta="14-06-2017 11:03:44" speed="11.9693" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="192" etaExact="1497436376000" eta="14-06-2017 12:32:56" speed="11.9793" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="193" etaExact="1497440228000" eta="14-06-2017 13:37:08" speed="11.9866" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="194" etaExact="1497441468000" eta="14-06-2017 13:57:48" speed="11.9535" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="195" etaExact="1497445965000" eta="14-06-2017 15:12:45" speed="11.9837" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="196" etaExact="1497449521000" eta="14-06-2017 16:12:01" speed="11.988" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="197" etaExact="1497451084000" eta="14-06-2017 16:38:04" speed="12.043" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="198" etaExact="1497453376000" eta="14-06-2017 17:16:16" speed="11.9124" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="199" etaExact="1497454209000" eta="14-06-2017 17:30:09" speed="11.9864" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="200" etaExact="1497456054000" eta="14-06-2017 18:00:54" speed="12.0255" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="201" etaExact="1497458158000" eta="14-06-2017 18:35:58" speed="11.963" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="202" etaExact="1497459309000" eta="14-06-2017 18:55:09" speed="11.9649" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="203" etaExact="1497461569000" eta="14-06-2017 19:32:49" speed="12.0237" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="204" etaExact="1497461836000" eta="14-06-2017 19:37:16" speed="12.3019" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="205" etaExact="1497462724000" eta="14-06-2017 19:52:04" speed="11.8522" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="206" etaExact="1497463017000" eta="14-06-2017 19:56:57" speed="12.2207" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="207" etaExact="1497463507000" eta="14-06-2017 20:05:07" speed="11.9104" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="208" etaExact="1497463975000" eta="14-06-2017 20:12:55" speed="12.0405" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="209" etaExact="1497464124000" eta="14-06-2017 20:15:24" speed="11.8095" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="210" etaExact="1497465655000" eta="14-06-2017 20:40:55" speed="11.9534" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="211" etaExact="1497467181000" eta="14-06-2017 21:06:21" speed="11.9836" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="212" etaExact="1497468251000" eta="14-06-2017 21:24:11" speed="11.9773" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="213" etaExact="1497469178000" eta="14-06-2017 21:39:38" speed="11.952" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="214" etaExact="1497470678000" eta="14-06-2017 22:04:38" speed="12.0288" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="215" etaExact="1497470900000" eta="14-06-2017 22:08:20" speed="11.7387" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="216" etaExact="1497471136000" eta="14-06-2017 22:12:16" speed="12.0251" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="217" etaExact="1497473205000" eta="14-06-2017 22:46:45" speed="11.9724" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="218" etaExact="1497474178000" eta="14-06-2017 23:02:58" speed="11.9892" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="219" etaExact="1497474521000" eta="14-06-2017 23:08:41" speed="11.809" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="220" etaExact="1497474976000" eta="14-06-2017 23:16:16" speed="12.0221" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="221" etaExact="1497475406000" eta="14-06-2017 23:23:26" speed="11.9176" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="222" etaExact="1497475648000" eta="14-06-2017 23:27:28" speed="11.9354" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="223" etaExact="1497475879000" eta="14-06-2017 23:31:19" speed="11.9211" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="224" etaExact="1497476164000" eta="14-06-2017 23:36:04" speed="12.0883" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="225" etaExact="1497476653000" eta="14-06-2017 23:44:13" speed="12.1958" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="226" etaExact="1497476805000" eta="14-06-2017 23:46:45" speed="11.6178" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="227" etaExact="1497476956000" eta="14-06-2017 23:49:16" speed="11.9458" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="228" etaExact="1497477079000" eta="14-06-2017 23:51:19" speed="11.8091" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="229" etaExact="1497477170000" eta="14-06-2017 23:52:50" speed="11.696" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="230" etaExact="1497477344000" eta="14-06-2017 23:55:44" speed="12.0206" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="231" etaExact="1497477444000" eta="14-06-2017 23:57:24" speed="11.8096" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="232" etaExact="1497477549000" eta="14-06-2017 23:59:09" speed="11.8838" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="233" etaExact="1497477589000" eta="14-06-2017 23:59:49" speed="14.4385" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="234" etaExact="1497477654000" eta="15-06-2017 00:00:54" speed="11.5345" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="235" etaExact="1497477779000" eta="15-06-2017 00:02:59" speed="11.4767" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="236" etaExact="1497477993000" eta="15-06-2017 00:06:33" speed="12.0264" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="237" etaExact="1497478057000" eta="15-06-2017 00:07:37" speed="12.7785" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="238" etaExact="1497478195000" eta="15-06-2017 00:09:55" speed="12.0331" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="239" etaExact="1497478390000" eta="15-06-2017 00:13:10" speed="11.5616" fuel="0" waveLoss="0" windLoss="0"/>
+            <scheduleElement waypointId="240" etaExact="1497478525000" eta="15-06-2017 00:15:25" speed="11.9412" fuel="0" waveLoss="0" windLoss="0"/>
+         </calculated>
+      </schedule>
+   </schedules>
+   <extensions>
+      <extension>
+         <property name="fuelCost" value="0.00"/>
+      </extension>
+   </extensions>
+</route>

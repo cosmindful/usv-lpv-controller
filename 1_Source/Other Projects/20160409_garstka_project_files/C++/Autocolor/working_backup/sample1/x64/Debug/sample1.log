@@ -1,0 +1,33 @@
+﻿Der Buildvorgang wurde am 14.01.2016 13:21:22 gestartet.
+     1>Projekt "E:\Eigene Dateien\Visual Studio 2012\Projects\sample1\sample1\sample1.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /IC:\opencv\build\include\opencv /IC:\opencv\build\include\opencv2 /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main_v5.cpp
+         main_v5.cpp
+     1>main_v5.cpp(148): warning C4244: '=': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>main_v5.cpp(149): warning C4244: '=': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>main_v5.cpp(162): warning C4244: '=': Konvertierung von 'float' in 'int', möglicher Datenverlust
+     1>main_v5.cpp(163): warning C4244: '=': Konvertierung von 'float' in 'int', möglicher Datenverlust
+     1>main_v5.cpp(164): warning C4244: '=': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>main_v5.cpp(165): warning C4244: '=': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>main_v5.cpp(201): warning C4244: '=': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>main_v5.cpp(202): warning C4244: '=': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>main_v5.cpp(77): warning C4101: 'stampstart': Unreferenzierte lokale Variable
+     1>main_v5.cpp(77): warning C4101: 'stampstop': Unreferenzierte lokale Variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Eigene Dateien\Visual Studio 2012\Projects\sample1\x64\Debug\sample1.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc11\lib /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Eigene Dateien\Visual Studio 2012\Projects\sample1\x64\Debug\sample1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Eigene Dateien\Visual Studio 2012\Projects\sample1\x64\Debug\sample1.lib" /MACHINE:X64 x64\Debug\Converter.obj
+         x64\Debug\Display.obj
+         x64\Debug\Functions.obj
+         x64\Debug\ImageAquisition.obj
+         x64\Debug\ImageProcessing.obj
+         x64\Debug\KalmanFilter.obj
+         x64\Debug\kalman_youtube.obj
+         x64\Debug\main_v5.obj
+         x64\Debug\tutorial3_objectTracking.obj
+         x64\Debug\tutorial4_predict.obj
+         x64\Debug\tutorial5_newKalman_backup.obj
+         sample1.vcxproj -> E:\Eigene Dateien\Visual Studio 2012\Projects\sample1\x64\Debug\sample1.exe
+     1>Die Erstellung des Projekts "E:\Eigene Dateien\Visual Studio 2012\Projects\sample1\sample1\sample1.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.98

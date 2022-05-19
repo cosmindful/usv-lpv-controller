@@ -1,0 +1,46 @@
+function [NTHETAhat,PHI,PHI_bnd,Us,nrp,percerr,dSIG,Normlz] = psm_pca(ptraj,reqacc,map)
+% This function apply paramter set mapping using principle component
+% analysis to a given trajectory matrix 'ptraj' 
+% 'reqacc' required accuracy, 'map' scaling type pm1 or 0mean or 
+%  0mean, 1std (defualt)
+%
+% ref.  A. Kwiatkowski PhD thesis 2007 TUHH
+%
+% HS: 14.12.08
+
+
+np = size(ptraj,1);
+nd = size(ptraj,2);
+if np>=nd,
+    error('data samples are not enough or transpose the trajectory matrix');
+end
+THETA  = ptraj;
+[NTHETA,Normlz] = mapstd(THETA);        % 0mean 1std
+if strcmp(map,'0mean'),
+    for k=1:np,
+        NTHETA(k,:) = THETA(k,:)-Normlz.xmean(k);%0mean
+    end
+    Normlz      = Normlz.xmean;
+elseif strcmp(map,'pm1'),
+    [NTHETA,Normlz] = mapminmax(THETA);     % +-1
+end
+[U,SIG,V]   = svd(NTHETA);          % PCA
+dSIG        = diag(SIG(:,1:np));
+tsumsqr     = sumsqr(dSIG);
+for i=1:np;
+    percerr = sumsqr(dSIG(1:i))/tsumsqr*100;
+    if percerr >= reqacc,
+        break
+    end
+end
+nrp = i;
+SIGs = SIG(1:nrp,1:nrp);
+Us   = U(:,1:nrp);
+VT   = V';
+VsT  = VT(1:nrp,:);
+NTHETAhat = Us*SIGs*VsT;
+PHI  = Us'*NTHETA;
+PHI_bnd = zeros(nrp,2);
+for j=1:nrp,
+    PHI_bnd(j,:) = [min(PHI(j,:)) max(PHI(j,:))];
+end
